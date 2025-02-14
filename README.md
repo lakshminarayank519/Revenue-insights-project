@@ -4,4 +4,6 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 # Data set link
 - <a href="https://github.com/lakshminarayank519/Revenue-insights-project/blob/main/input-files-1%20(1).zip">Dataset</a>
 ##Dash Board
+
+
 ![Screenshot (346)](https://github.com/user-attachments/assets/438c45f5-d049-49de-8b0e-8db284a35cfb)
